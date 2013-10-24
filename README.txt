@@ -13,3 +13,9 @@ $ sudo wifcap wlan0 nadege-flat x
 
 Capture on channel 2:
 $ sudo wifcap wlan0 nadege-flat 2
+
+
+Installation
+============
+
+sudo make install
